@@ -5,4 +5,4 @@
 * Xcode
 * SwiftUi
 
-![My Image](buildings-img.gif)
+![My Image](buildings-img.Gif)
